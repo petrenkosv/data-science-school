@@ -1,4 +1,10 @@
 
-*.ipynb_checkpoints*
+# Folders
+*Machine Learning - education*
+
+# Files
 *.csv
 *.xls*
+
+# Locals
+*.ipynb_checkpoints*
